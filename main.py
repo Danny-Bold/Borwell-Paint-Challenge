@@ -4,7 +4,6 @@ Borwell 'Paint Calculator' Challenge, Danny Bold, 20/7/2022
 
 I chose to code this project in Python, using Pygame, because that's what I'm most familiar with.
 
-Note to self: started at 7.40, finished at 9.30
 """
 
 import pygame
